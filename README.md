@@ -1,4 +1,4 @@
-# Seat Finder App
+# Dice App
 
 Welcome to the Dice app, a Flutter-based application designed to play Snekladder and Ludo Games using this digital Dice app.
 
