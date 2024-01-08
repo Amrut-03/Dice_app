@@ -1,16 +1,26 @@
-# dice_app
+# Seat Finder App
 
-A new Flutter project.
+Welcome to the Dice app, a Flutter-based application designed to play Snekladder and Ludo Games using this digital Dice app.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Dice one:** When we tap on dice then it we rolled and show dots.
 
-A few resources to get you started if this is your first Flutter project:
+- **Dice Two:** When we tap on dice then it we rolled and show dots.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##ScreenRecording 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Amrut-03/Dice_app/assets/125724968/48f46138-29c3-4476-be9f-a84097c0d81e
+
+## Code Structure
+
+The code is organized into Single Dart files:
+
+- **main.dart:** Contains the main structure of the app, including the UI and Functionalities of Rolling Dice.
+- 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Amrut-03/Dice_app
